@@ -1,0 +1,5 @@
+print(2+2)
+print("W" + "o" * 1000)
+print("PYTHON!")
+print("<3s")
+print("Minecraft")
